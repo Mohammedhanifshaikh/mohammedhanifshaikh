@@ -1,4 +1,4 @@
-![logo](https://github.com/Mohammedhanifshaikh/mohammedhanifshaikh/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+![logo](https://github.com/Mohammedhanifshaikh/mohammedhanifshaikh/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mohammed Hanif Shaikh</h1>
 <h3 align="center">A passionate QA Specialist from India</h3>
 
